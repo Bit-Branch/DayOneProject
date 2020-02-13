@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00f7e339-9b2a-4461-aee5-32490939fefd" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XhAk3iYzKMd9aDAATuq9bN1lzj" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.23950382" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="by.javatr.task1.runner" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\LibraryApplication\Day1ProjectCHUMAKPG\src\by\javatr" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TaskTen">
+    <configuration name="TaskFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.javatr.task4.runner.TaskFour" />
+      <module name="Day1ProjectCHUMAK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.javatr.task4.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.javatr.task1.runner.TaskOne" />
+      <module name="Day1ProjectCHUMAK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.javatr.task1.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskSix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.javatr.task6.runner.TaskSix" />
+      <module name="Day1ProjectCHUMAK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.javatr.task6.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.javatr.task10.runner.TaskTen" />
+      <module name="Day1ProjectCHUMAK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.javatr.task10.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.javatr.task2.runner.TaskTwo" />
+      <module name="Day1ProjectCHUMAK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.javatr.task2.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TaskOne" />
+      <item itemvalue="Application.TaskSix" />
+      <item itemvalue="Application.TaskTen" />
+      <item itemvalue="Application.TaskFour" />
+      <item itemvalue="Application.TaskTwo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskTen" />
+        <item itemvalue="Application.TaskTwo" />
+        <item itemvalue="Application.TaskFour" />
+        <item itemvalue="Application.TaskOne" />
+        <item itemvalue="Application.TaskSix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f7e339-9b2a-4461-aee5-32490939fefd" name="Default Changelist" comment="" />
+      <created>1581488092013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581488092013</updated>
+      <workItem from="1581488099013" duration="4386000" />
+      <workItem from="1581518963935" duration="10700000" />
+      <workItem from="1581540953260" duration="696000" />
+      <workItem from="1581573180924" duration="13763000" />
+      <workItem from="1581623642121" duration="9915000" />
+      <workItem from="1581634278098" duration="90000" />
+      <workItem from="1581634517602" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
